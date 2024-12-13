@@ -1,0 +1,6 @@
+# Ignore Visual Studio temporary files and build results
+bin/
+obj/
+
+# Ignore Visual Studio solution file
+*.sln
